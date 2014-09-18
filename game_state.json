@@ -1,0 +1,20 @@
+{
+  "game_state": {
+    "player": {
+      "stats": {
+        "health": "10",
+        "experience": "0",
+        "level": "1"
+      },
+      "attributes": {
+        "total_health": "10",
+        "name": "player_name"
+      },
+      "condition": {
+        "burned": "false",
+        "dazed": "false",
+        "poisoned": "false"
+      }
+    }
+  }
+}
