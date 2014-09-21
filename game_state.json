@@ -4,9 +4,7 @@
       "stats": {
         "health": "10",
         "experience": "0",
-        "level": "1"
-      },
-      "attributes": {
+        "level": "1",
         "total_health": "10",
         "name": "player_name"
       },
